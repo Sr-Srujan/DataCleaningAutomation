@@ -1,0 +1,13 @@
+===== EMPLOYEE REPORT =====
+
+Total Employees : 50
+Total Salary : 2804000.0
+Average Salary : 56080.0
+
+Department Wise Count
+Finance : 12
+Hr : 13
+It : 13
+Marketing : 12
+
+Report Generated Successfully!
